@@ -1,0 +1,65 @@
+.box{
+    background-color: red;
+    color: white;
+    margin-bottom: 20px;
+}
+
+
+.box1{
+    background-color: orange;
+    margin-bottom: 20px;
+}
+
+.box2{
+    background-color: yellow;
+    margin-bottom: 20px;
+}
+
+.box3{
+    background-color: yellowgreen;
+    margin-bottom: 20px;
+}
+
+.box4{
+    background-color: green;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.box5{
+    background-color: blue;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.box6{
+    background-color: skyblue;
+    margin-bottom: 20px;
+}
+
+.box7{
+    background-color: blueviolet;
+    margin-bottom: 20px;
+}
+
+.box8{
+    background-color: indigo;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.box9{
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.box10{
+    background-color: brown;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.clearfix img{
+    width: 100px;
+}
